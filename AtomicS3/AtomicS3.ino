@@ -1,5 +1,5 @@
-#include <M5AtomS3.h>
-#include <TinyGPSPlus.h>
+#include <M5AtomS3.h> // MIT https://github.com/m5stack/M5AtomS3
+#include <TinyGPSPlus.h> // LGPL https://github.com/mikalhart/TinyGPSPlus
 
 TinyGPSPlus gps;
 

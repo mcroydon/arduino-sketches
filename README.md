@@ -5,4 +5,6 @@ A collection of Arduino sketches.
 
 ## License
 
-These sketches are released under the MIT License.
+These sketches are released under the MIT License. Note that sketches may link to libraries released under different licenses:
+
+* [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) is relased under the LGPL.
